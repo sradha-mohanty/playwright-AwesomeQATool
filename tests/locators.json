@@ -1,0 +1,25 @@
+{
+"QATool":
+{
+"createQuestion":".question__question",
+"sortButton":"//button[contains(@class,'btn-primary')]",
+"removeQAButton":"//button[contains(@class,'btn-danger')]",
+"question":"#question",
+"answer":"#answer",
+"submitQAButton":"//button[@type='submit']",
+"sidebar":".sidebar",
+"ulItem":"//ul[contains(@class,'list-group-flush')]",
+"listItems":"//li[contains(@class,'list-group-item')]",
+"questionList":"//div[contains(@class,'question__question')]",
+"removeQuestionAlert":"//div[contains(@class,'alert-danger')]",
+"headingH1":"//h1",
+"headingH2":"//h2[contains(text(),'Created questions')]",
+"headingH3":"//h2[contains(text(),'Create a new question')]",
+"questionLebel":"//label[contains(text(),'Question')]",
+"answerLabel":"//label[contains(text(),'Answer')]"
+},
+"ToolTip":
+{
+"toolTipLocator":"//span[contains(@class,'tooltipped-title__tooltip hidden-xl-down')]"
+}
+}  
