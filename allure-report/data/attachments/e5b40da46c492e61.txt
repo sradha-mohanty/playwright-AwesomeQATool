@@ -1,5 +1,0 @@
-The awesome Q/A tool
-Created questions
-Create a new question
-Question
-Answer

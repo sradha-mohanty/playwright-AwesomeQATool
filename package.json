@@ -11,5 +11,10 @@
     "@playwright/test": "^1.44.0",
     "@types/node": "^20.12.11",
     "allure-playwright": "^2.15.1"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.45",
+    "winston": "^3.13.0",
+    "winston-daily-rotate-file": "^5.0.0"
   }
 }
